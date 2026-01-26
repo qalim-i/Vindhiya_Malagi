@@ -1,0 +1,300 @@
+{
+  "personal_information": {
+    "name": "Dr. Vindhya Malagi",
+    "degree": "PhD",
+    "email": "vindhyapm@gmail.com",
+    "phone": "9902933340",
+    "linkedin": "linkedin.com/in/vindhya-malagi",
+    "google_scholar": "https://scholar.google.com/citations?user=dR7Sn8QAAAAJ&hl=en&oi=ao"
+  },
+  "professional_summary": "Academic leader with 26 years of experience in engineering education, innovation leadership, and institutional growth. Currently serving as Professor & Head (AI & ML) and Convener, Institution's Innovation Council (IIC) at Dayananda Sagar College of Engineering (DSCE). Recognized for building high-impact innovation ecosystem, implementing national policies (NISP, MoE–IIC), mentoring institutions and startups, and contributing to national innovation ranking and institutional excellence.",
+  "core_competencies": [
+    "Institution's Innovation Council Leadership",
+    "National Innovation & Startup Policy (NISP) Implementation",
+    "Innovation Ecosystem Design & Governance",
+    "Startup Incubation, Pre-Incubation & Technology Transfer Expertise",
+    "Industry–Academia Collaboration & MoUs",
+    "Innovation Rankings (NIRF, MIC Star Rating)",
+    "Organizing FDPs, Student Development & Faculty Enablement",
+    "Research, IP & Funded Projects",
+    "Research Oriented Academic Curriculum dissemination"
+  ],
+  "professional_experience": [
+    {
+      "position": "Professor & Head – Artificial Intelligence & Machine Learning",
+      "institution": "Dayananda Sagar College of Engineering, Bengaluru",
+      "period": "Present"
+    },
+    {
+      "position": "Convener – Institution's Innovation Council (IIC)",
+      "institution": "Dayananda Sagar College of Engineering, Bengaluru",
+      "period": "Present"
+    },
+    {
+      "position": "Various Academic & Research Roles",
+      "institution": "DSCE",
+      "period": "2007 to Present"
+    },
+    {
+      "position": "Lecturer",
+      "institution": "Vivekanand Education Society's Institute of Technology Mumbai",
+      "period": "2004-2007"
+    },
+    {
+      "position": "Lecturer",
+      "institution": "Ballari Institute of Technology and Management ",
+      "period": "1999 – 2004"
+    }
+  ],
+  "iic_contributions": [
+    "Lead institutional innovation strategy aligned with MoE's IIC framework and National Innovation & Startup Policy (NISP).",
+    "Key contributor to DSCE achieving NIRF Innovation Ranking (50–100 band) and consistent 4-Star MIC rating for three consecutive years.",
+    "Secured AICTE funding to mentor five HEIs in building robust Innovation & Entrepreneurship (I&E) ecosystems.",
+    "Coordinated 400+ innovation, entrepreneurship, research, IPR, and startup activities fostering campus-wide I&E culture in the past 3 years.",
+    "Represented DSCE at IIC Regional Meets and national forums as Panelist, Keynote Speaker, and Expert Resource Person.",
+    "Organized multiple FDPs and Student Development Programs on innovation, research, IPR, and entrepreneurship.",
+    "Mentored more than 25 YUKTI nominations representing DSCE at national-level pitches.",
+    "Served as DSCE SPOC for Smart India Hackathon (SIH); enabled five teams to emerge as national winners this year.",
+    "Established and coordinated pre-incubation and incubation activities in collaboration with startups under MoUs.",
+    "Led curriculum integration of innovation, entrepreneurship, and SDGs within the AI & ML department."
+  ],
+  "institutional_leadership_and_governance": [
+    "Member, National Innovation & Startup Policy (NISP) Committee – DSCE",
+    "Convener, Institution's Innovation Council (IIC) – DSCE",
+    "Contributor to institutional strategy, accreditation, ranking submissions, and quality assurance initiatives",
+    "Mentor for faculty and student innovation leaders and ambassadors across departments"
+  ],
+  "key_achievements_and_impact": [
+    "Institutionalized innovation governance mechanisms aligned with national policy frameworks",
+    "Built sustainable industry partnerships and startup mentoring pipelines",
+    "Enhanced institutional reputation through national rankings, awards, and flagship innovation programs",
+    "Enabled student-led innovations to transition from ideation to national recognition and startup pathways",
+    "Recognized with institutional and national accolades for excellence in innovation leadership and coordination"
+  ],
+  "research_experience": [
+    "Ph.D. in Computer Vision under ER&IPR DRDO funded projects",
+    "Part of four funded research projects in various capacities – Currently PI for Industry Funded Research Project",
+    "More than 30 Publications in peer-reviewed journals and reputed international conferences",
+    "2 patents granted, 2 Patents at examination stage and 4 published",
+    "Active contributor to research, innovation education, and applied AI domains"
+  ],
+  "professional_development_and_training": {
+    "organised_conducted": [
+      "Faculty Enablement Programs in innovation leadership, research governance, and academic administration",
+      "Training in IPR, startup mentoring, technology commercialization, and entrepreneurship education",
+      "Participation in national innovation forums, policy workshops, and leadership summits"
+    ]
+  },
+  "professional_affiliations": [
+    "Member, ACM, ACMW, IEEE, LMISTE",
+    "Member Computer Vision SIG, DSCE",
+    "Innovation Ambassador"
+  ],
+  "researcher": {
+    "name": "Dr. Vindhya P Malagi",
+    "role": "Co-investigator",
+    "education": {
+      "BE": {
+        "university": "Visweswaraya Technological University, Belgaum",
+        "field": "Computer Science and Engineering"
+      },
+      "MTech": {
+        "university": "Visweswaraya Technological University, Belgaum",
+        "field": "Computer Science and Engineering"
+      },
+      "PhD": {
+        "university": "VTU",
+        "field": "Computer Vision and Image Processing"
+      }
+    },
+    "current_position": {
+      "designation": "Professor & Head",
+      "department": "Department of Artificial Intelligence and Machine Learning",
+      "institution": "Dayananda Sagar College of Engineering",
+      "institution_type": "autonomous college under VTU, Belgaum"
+    },
+    "experience_years": 25,
+    "fields_of_interest": [
+      "Machine Learning",
+      "Computer Vision",
+      "Image Processing"
+    ],
+    "professional_memberships": "member of various Professional bodies",
+    "research_output": {
+      "publications": "about 40 research publications in International Journals and Conferences",
+      "patents_granted": 3,
+      "patents_published": 4,
+      "patent_fields": [
+        "Image Processing",
+        "Computer Vision"
+      ]
+    },
+    "consulting": "Consultant in the area of AI for both National and International companies"
+  },
+  "work_experience": [
+    {
+      "institution": "Dayananda Sagar College of Engineering",
+      "topic": "Junior Research Fellow on ER&IPR, DRDO funded project \"Vision Based Waypoint Navigation from an Unmanned Air Vehicle\", Duration : 2 years",
+      "year": 2010
+    },
+    {
+      "institution": "Dayananda Sagar College of Engineering",
+      "topic": "Senior Research Fellow on ER&IPR, DRDO funded project \"Tracking Multiple Objects in Aerial Image Sequences from UAVs\" , Duration : 2 years",
+      "year": 2011
+    },
+    {
+      "institution": "Dayananda Sagar College of Engineering",
+      "topic": "Research Training/Courses in the field of Image Processing and Computer Vision from Stanford, USA  Duration : 2 years",
+      "year": 2012
+    },
+    {
+      "institution": "Dayananda Sagar College of Engineering",
+      "topic": "Co-PI for the project ER&IPR, DRDO funded project \"Tracking Multiple Objects in Aerial Image Sequences from UAVs\", Duration : 2 years",
+      "year": 2017
+    },
+    {
+      "institution": "Dayananda Sagar College of Engineering",
+      "topic": "PI for the project Industry funded project \"Adaptive Learning using AI with Performance Optimization\", Duration : 2 years",
+      "year": 2025
+    }
+  ],
+  "funded_projects": [
+    {
+      "name_of_agency": "Industry Research",
+      "title_of_project": "Adaptive Learning using AI with Performance Optimization",
+      "total_amount": "15,50,000",
+      "period_of_support": "2/1/2025 to 1/1/2027",
+      "status": "Ongoing"
+    },
+    {
+      "name_of_agency": "ER&IPR, DRDO",
+      "title_of_project": "Tracking Multiple Objects under Occlusion in Aerial Image Sequences",
+      "total_amount": "22,07,000",
+      "period_of_support": "6/6/2017 to 5/6/2019 (2 years)",
+      "status": "Completed"
+    },
+    {
+      "name_of_agency": "ER&IPR, DRDO",
+      "title_of_project": "Tracking Multiple Objects in Aerial Image Sequences from UAVs",
+      "total_amount": "21,20,000",
+      "period_of_support": "1/12/2011 to 30/11/2013 (2 years)",
+      "status": "Completed"
+    },
+    {
+      "name_of_agency": "ER&IPR, DRDO",
+      "title_of_project": "Vision Based Waypoint Navigation from  an Unmanned Air Vehicle",
+      "total_amount": "15,00,000",
+      "period_of_support": "1/03/2010 to 28/02/2012",
+      "status": "Completed"
+    }
+  ],
+  "publications": [
+    {
+      "citation": "[1] Malagi, V.P., S, R., Lamani, M.R. et al. Intelligent intrusion detection system for cloud computing with Parrot optimization and attention-based Bi-LSTM. Int. j. inf. tecnol. (2025). https://doi.org/10.1007/s41870-025-02924-z"
+    },
+    {
+      "citation": "[2] Periyasamy, Rajeswari, Sasi, Smitha, Malagi, Vindhya P., Shivaswamy, Rashmi, Chikkaiah, Jayanth and Pathak, Ranjeet Kumar. \"Artificial intelligence assisted photonic bio sensing for rapid bacterial diseases\" Zeitschrift für Naturforschung A, vol. 80, no. 8, 2025, pp. 665-671. https://doi.org/10.1515/zna-2025-0076"
+    },
+    {
+      "citation": "[3] Awati, A., Sirvi, A., Gowda BM, C. et al. Advancing cryospheric studies: a historical perspective on radio-echo soundgram analysis techniques. Earth Sci Inform 18, 498 (2025). https://doi.org/10.1007/s12145-025-01996-6"
+    },
+    {
+      "citation": "[4] S. M. Sagari, V. P. Malagi, and B. Chandrahas, \"A Novel Feature Extraction Approach Using Deformable Adaptive Instance-Based U-Net Architecture for Segmentation and Classification of Oral Mucosal Lesion\", Eng. Technol. Appl. Sci. Res., vol. 15, no. 4, pp. 25228–25234, Aug. 2025."
+    },
+    {
+      "citation": "[5] R Periyasamy, S Sasi, VP Malagi, R Shivaswamy, J Chikkaiah, RK Pathak Artificial intelligence assisted photonic bio sensing for rapid bacterial diseases, Zeitschrift für Naturforschung A, 2025"
+    },
+    {
+      "citation": "[6] Malagi, V.P., Naresh, E., Mithra, C. et al. Adaptive residual convolutional neural network for moiré image restoration. Int. j. inf. tecnol. 17, 783–791 (2025). https://doi.org/10.1007/s41870-024-02203-3"
+    },
+    {
+      "citation": "[7] Malagi, Vindhya, M. S. Annapoorna, Siva Sankar Namani, Sahil Kukreja, K. Vibha, and R. Reka. \"Innovative Quantum Systems Analysis Through Machine Learning and Quantum Computing.\" In Exploring the Fusion of Quantum Computing and Machine Learning, pp. 27-52. IGI Global Scientific Publishing, 2025."
+    },
+    {
+      "citation": "[8] Satish, Nishank, Manikanta Bukapindi, K. Shreyas, Guru Akhil, and Vindhya P. Malagi. \"Innovating Drug Design for Alzheimer's.\" Innovations in Computational Intelligence and Computer Vision: Proceedings of ICICV 2024, Volume 2 1117 (2024): 255."
+    },
+    {
+      "citation": "[9] Kannan, Kausthub, Aditya N. Awati, Smruthi S. Rao, and Vindhya P. Malagi. \"DROPEX: Disaster Rescue Operations and Probing using EXpert drones.\" In 2024 8th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS), pp. 1-5. IEEE, 2024."
+    },
+    {
+      "citation": "[10] Sagari, S. M., V. P. Malagi, and S. Sasi. \"Euri–A Deep Ensemble Architecture For Oral Lesion Segmentation And Detection.\" Int. J. Intell. Syst. Appl. Eng 12, no. 3s (2024): 242-249."
+    }
+  ],
+  "patents": [
+    {
+      "sl_no": 1,
+      "patent_name": "Method and system for ensemble large language model response optimization",
+      "patent_type": "Utility",
+      "application_date_and_no": "202541106817",
+      "patent_status": "Published"
+    },
+    {
+      "sl_no": 1,
+      "patent_name": "Image Sequence Characterization for Object Tracking Test Result Interpretation.",
+      "patent_type": "Utility",
+      "application_date_and_no": "202341080131 A",
+      "patent_status": "published"
+    },
+    {
+      "sl_no": 2,
+      "patent_name": "Approach to Test Occlusion Handling in Tracking Algorithms",
+      "patent_type": "Utility",
+      "application_date_and_no": "202341080133 A",
+      "patent_status": "published"
+    },
+    {
+      "sl_no": 3,
+      "patent_name": "NLP Processing Server Equipment",
+      "patent_type": "Design",
+      "application_date_and_no": "6298493",
+      "patent_status": "Design Patent Granted"
+    },
+    {
+      "sl_no": 4,
+      "patent_name": "Automated Location Identification System using Text and Image Data",
+      "patent_type": "Utility",
+      "application_date_and_no": "2021100154",
+      "patent_status": "Australian Patent Granted for  a period of 8 years"
+    },
+    {
+      "sl_no": 5,
+      "patent_name": "Alerting System for Identification of Public Without Mask",
+      "patent_type": "Utility",
+      "application_date_and_no": "202141020021",
+      "patent_status": "Indian Patent Granted"
+    },
+    {
+      "sl_no": 6,
+      "patent_name": "ChargeDis",
+      "patent_type": "Utility",
+      "application_date_and_no": "202241069875",
+      "patent_status": "published"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "IEEE, IEEE – Robotics and Automation Society (RAS)",
+      "role": "Counselor",
+      "period": "Feb 2022 – Present",
+      "associated_with": "Dayananda Sagar College of Engineering, Bangalore"
+    },
+    {
+      "name": "Association for Computing Machinery",
+      "role": "Member",
+      "period": "Dec 2019 – Present",
+      "associated_with": "Dayananda Sagar College of Engineering, Bangalore"
+    },
+    {
+      "name": "Association for Computing Machinery – Women Chapter",
+      "role": "Mentor, Member",
+      "period": "Dec 2019 – Present",
+      "associated_with": "Dayananda Sagar College of Engineering, Bangalore"
+    },
+    {
+      "name": "Indian Society for Technical Education (ISTE)",
+      "role": "Life Member",
+      "period": "Jan 2016 – Present",
+      "associated_with": "Dayananda Sagar College of Engineering, Bangalore"
+    }
+  ]
+}

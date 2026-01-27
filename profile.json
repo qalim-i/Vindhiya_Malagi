@@ -233,6 +233,20 @@
       "year": 2025
     },
     {
+      "id": 24,
+      "title": "Exploring Generative AI Models in Enhanced Communication Systems for Biomedical Solutions",
+      "authors": "VP Malagi, MS Annapoorna, H Vinothkumar, S Niyaj Dilavar, DJ Dahigaonkar, M Bhutani",
+      "venue": "Lecture Notes in Networks and Systems",
+      "year": 2025
+    },
+    {
+      "id": 28,
+      "title": "FDCT-Enhanced CNN-LSTM for High-Accuracy Non-Invasive EEG Channel Classification in Focal Seizure",
+      "authors": "VP Malagi, KK Dutta, A Sasidharan, D Nagabushana",
+      "venue": "Preprint",
+      "year": 2025
+    },
+    {
       "id": 7,
       "title": "Euri–A Deep Ensemble Architecture For Oral Lesion Segmentation And Detection",
       "authors": "SM Sagari, VP Malagi, S Sasi",
@@ -254,10 +268,31 @@
       "year": 2024
     },
     {
+      "id": 30,
+      "title": "Innovating Drug Design for Alzheimer's",
+      "authors": "N Satish, M Bukapindi, K Shreyas, G Akhil, VP Malagi",
+      "venue": "Innovations in Computational Intelligence and Computer Vision",
+      "year": 2024
+    },
+    {
+      "id": 31,
+      "title": "An Efficient Mobile Descend Scheduling for Enterprise of Mobility-Grounded Systems for Wireless Sensor Networks",
+      "authors": "V P Malagi, BV Srividya, S Sasi, VB Durdi, AV Kulkarni, R Menon",
+      "venue": "International Journal of Intelligent Systems and Applications in Engineering",
+      "year": 2024
+    },
+    {
       "id": 10,
       "title": "Feature Fusing with Vortex-Based Classification of Sentiment Analysis Using Multimodal Data",
       "authors": "V Sunil Kumar, S Renukadevi, BM Yashaswini, VP Malagi, PK Pareek",
       "venue": "International Conference on Emerging Research in Computing, Information",
+      "year": 2023
+    },
+    {
+      "id": 25,
+      "title": "An Efficient Mobile Descend Scheduling for Enterprise of Mobility-Grounded Systems for Wireless Sensor Networks",
+      "authors": "VP Malagi, Srividya BV, S Sasi, VB Durdi, AV Kulkarni, R Menon",
+      "venue": "International Journal of Intelligent Systems and Applications in Engineering",
       "year": 2023
     },
     {
@@ -286,6 +321,13 @@
       "title": "A comprehensive survey on down syndrome detection in foetus using modern technologies",
       "authors": "IM Megha, S Vyshnavi Kowshik, S Ali, VP Malagi",
       "venue": "Intelligent Data Engineering and Analytics: Frontiers in Intelligent",
+      "year": 2020
+    },
+    {
+      "id": 29,
+      "title": "A Preliminary Study of Gender Differences in Participation Rates in Competitive Programming Contests",
+      "authors": "VP Malagi, V Agrawal, S Bhurat, O Banerjee",
+      "venue": "Compute-2020",
       "year": 2020
     },
     {
@@ -331,11 +373,25 @@
       "year": 2015
     },
     {
+      "id": 26,
+      "title": "Enhancing COCOA Framework for Tracking Multiple Objects in the Presence of Occlusion in Aerial Image Sequences",
+      "authors": "Gayatri, K Rangarajan, DR Ramesh Babu, VP Malagi",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "year": 2013
+    },
+    {
       "id": 21,
       "title": "Analysis and Classification of Feature Extraction Techniques: A Study",
       "authors": "S Bhat, VP Malagi, DR Ramesh Babu, KA Ramakrishna",
       "venue": "International Journal of Engineering Research and Development",
       "year": 2012
+    },
+    {
+      "id": 27,
+      "title": "Scale weight selection for feature extraction using complex wavelets: A framework",
+      "authors": "S Bhat, VP Malagi, K Rangarajan, DR Ramesh Babu, KA Ramakrishna",
+      "venue": "International Publication",
+      "year": 2011
     },
     {
       "id": 22,
@@ -350,62 +406,6 @@
       "authors": "VP Malagi, GG SivaSankari",
       "venue": "2010 International Conference on Signal and Image Processing",
       "year": 2010
-    },
-    {
-      "id": 24,
-      "title": "Exploring Generative AI Models in Enhanced Communication Systems for Biomedical Solutions",
-      "authors": "VP Malagi, MS Annapoorna, H Vinothkumar, S Niyaj Dilavar, DJ Dahigaonkar, M Bhutani",
-      "venue": "Lecture Notes in Networks and Systems",
-      "year": 2025
-    },
-    {
-      "id": 25,
-      "title": "An Efficient Mobile Descend Scheduling for Enterprise of Mobility-Grounded Systems for Wireless Sensor Networks",
-      "authors": "VP Malagi, Srividya BV, S Sasi, VB Durdi, AV Kulkarni, R Menon",
-      "venue": "International Journal of Intelligent Systems and Applications in Engineering",
-      "year": 2023
-    },
-    {
-      "id": 26,
-      "title": "Enhancing COCOA Framework for Tracking Multiple Objects in the Presence of Occlusion in Aerial Image Sequences",
-      "authors": "Gayatri, K Rangarajan, DR Ramesh Babu, VP Malagi",
-      "venue": "Lecture Notes in Electrical Engineering",
-      "year": 2013
-    },
-    {
-      "id": 27,
-      "title": "Scale weight selection for feature extraction using complex wavelets: A framework",
-      "authors": "S Bhat, VP Malagi, K Rangarajan, DR Ramesh Babu, KA Ramakrishna",
-      "venue": "International Publication",
-      "year": 2011
-    },
-    {
-      "id": 28,
-      "title": "FDCT-Enhanced CNN-LSTM for High-Accuracy Non-Invasive EEG Channel Classification in Focal Seizure",
-      "authors": "VP Malagi, KK Dutta, A Sasidharan, D Nagabushana",
-      "venue": "Preprint",
-      "year": 2025
-    },
-    {
-      "id": 29,
-      "title": "A Preliminary Study of Gender Differences in Participation Rates in Competitive Programming Contests",
-      "authors": "VP Malagi, V Agrawal, S Bhurat, O Banerjee",
-      "venue": "Compute-2020",
-      "year": 2020
-    },
-    {
-      "id": 30,
-      "title": "Innovating Drug Design for Alzheimer's",
-      "authors": "N Satish, M Bukapindi, K Shreyas, G Akhil, VP Malagi",
-      "venue": "Innovations in Computational Intelligence and Computer Vision",
-      "year": 2024
-    },
-    {
-      "id": 31,
-      "title": "An Efficient Mobile Descend Scheduling for Enterprise of Mobility-Grounded Systems for Wireless Sensor Networks",
-      "authors": "V P Malagi, BV Srividya, S Sasi, VB Durdi, AV Kulkarni, R Menon",
-      "venue": "International Journal of Intelligent Systems and Applications in Engineering",
-      "year": 2024
     }
   ],
   "patents": [

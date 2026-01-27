@@ -25,6 +25,7 @@ const Navbar = ({ contact }) => {
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             } else {
                 navigate(link.href);
+                window.scrollTo(0, 0);
             }
             return;
         }

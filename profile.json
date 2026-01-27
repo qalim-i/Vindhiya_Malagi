@@ -190,34 +190,168 @@
   ],
   "publications": [
     {
-      "citation": "[1] Malagi, V.P., S, R., Lamani, M.R. et al. Intelligent intrusion detection system for cloud computing with Parrot optimization and attention-based Bi-LSTM. Int. j. inf. tecnol. (2025). https://doi.org/10.1007/s41870-025-02924-z"
+      "id": 1,
+      "title": "Intelligent intrusion detection system for cloud computing with Parrot optimization and attention-based Bi-LSTM",
+      "authors": "VP Malagi, MR Lamani, KS BVNV, R Sahana Lokesh",
+      "venue": "International Journal of Information Technology",
+      "year": 2025
     },
     {
-      "citation": "[2] Periyasamy, Rajeswari, Sasi, Smitha, Malagi, Vindhya P., Shivaswamy, Rashmi, Chikkaiah, Jayanth and Pathak, Ranjeet Kumar. \"Artificial intelligence assisted photonic bio sensing for rapid bacterial diseases\" Zeitschrift für Naturforschung A, vol. 80, no. 8, 2025, pp. 665-671. https://doi.org/10.1515/zna-2025-0076"
+      "id": 2,
+      "title": "Artificial intelligence assisted photonic bio sensing for rapid bacterial diseases",
+      "authors": "R Periyasamy, S Sasi, VP Malagi, R Shivaswamy, J Chikkaiah, RK Pathak",
+      "venue": "Zeitschrift für Naturforschung A",
+      "year": 2025
     },
     {
-      "citation": "[3] Awati, A., Sirvi, A., Gowda BM, C. et al. Advancing cryospheric studies: a historical perspective on radio-echo soundgram analysis techniques. Earth Sci Inform 18, 498 (2025). https://doi.org/10.1007/s12145-025-01996-6"
+      "id": 3,
+      "title": "Advancing cryospheric studies: a historical perspective on radio-echo soundgram analysis techniques",
+      "authors": "A Awati, A Sirvi, C Gowda BM, et al.",
+      "venue": "Earth Science Informatics",
+      "year": 2025
     },
     {
-      "citation": "[4] S. M. Sagari, V. P. Malagi, and B. Chandrahas, \"A Novel Feature Extraction Approach Using Deformable Adaptive Instance-Based U-Net Architecture for Segmentation and Classification of Oral Mucosal Lesion\", Eng. Technol. Appl. Sci. Res., vol. 15, no. 4, pp. 25228–25234, Aug. 2025."
+      "id": 4,
+      "title": "A Novel Feature Extraction Approach Using Deformable Adaptive Instance-Based U-Net Architecture for Segmentation and Classification of Oral Mucosal Lesion",
+      "authors": "SM Sagari, VP Malagi, B Chandrahas",
+      "venue": "Engineering, Technology & Applied Science Research",
+      "year": 2025
     },
     {
-      "citation": "[5] R Periyasamy, S Sasi, VP Malagi, R Shivaswamy, J Chikkaiah, RK Pathak Artificial intelligence assisted photonic bio sensing for rapid bacterial diseases, Zeitschrift für Naturforschung A, 2025"
+      "id": 5,
+      "title": "Adaptive residual convolutional neural network for moiré image restoration",
+      "authors": "VP Malagi, E Naresh, C Mithra, BK Suresh",
+      "venue": "International Journal of Information Technology",
+      "year": 2025
+
     },
     {
-      "citation": "[6] Malagi, V.P., Naresh, E., Mithra, C. et al. Adaptive residual convolutional neural network for moiré image restoration. Int. j. inf. tecnol. 17, 783–791 (2025). https://doi.org/10.1007/s41870-024-02203-3"
+      "id": 6,
+      "title": "Innovative Quantum Systems Analysis Through Machine Learning and Quantum Computing",
+      "authors": "V Malagi, MS Annapoorna, SS Namani, S Kukreja, K Vibha, R Reka",
+      "venue": "Exploring the Fusion of Quantum Computing and Machine Learning",
+      "publisher": "IGI Global Scientific Publishing",
+      "year": 2025
+      
     },
     {
-      "citation": "[7] Malagi, Vindhya, M. S. Annapoorna, Siva Sankar Namani, Sahil Kukreja, K. Vibha, and R. Reka. \"Innovative Quantum Systems Analysis Through Machine Learning and Quantum Computing.\" In Exploring the Fusion of Quantum Computing and Machine Learning, pp. 27-52. IGI Global Scientific Publishing, 2025."
+      "id": 7,
+      "title": "Euri–A Deep Ensemble Architecture For Oral Lesion Segmentation And Detection",
+      "authors": "SM Sagari, VP Malagi, S Sasi",
+      "venue": "International Journal of Intelligent Systems and Applications in Engineering",
+      "year": 2024
     },
     {
-      "citation": "[8] Satish, Nishank, Manikanta Bukapindi, K. Shreyas, Guru Akhil, and Vindhya P. Malagi. \"Innovating Drug Design for Alzheimer's.\" Innovations in Computational Intelligence and Computer Vision: Proceedings of ICICV 2024, Volume 2 1117 (2024): 255."
+      "id": 8,
+      "title": "Innovating Drug Design for Alzheimer's Disease via Reinforcement Learning for Enhanced Molecular Generation",
+      "authors": "N Satish, M Bukapindi, K Shreyas, G Akhil, VP Malagi",
+      "venue": "Innovations in Computational Intelligence and Computer Vision: Proceedings of ICICV 2024, Volume 2",
+      "year": 2024
     },
     {
-      "citation": "[9] Kannan, Kausthub, Aditya N. Awati, Smruthi S. Rao, and Vindhya P. Malagi. \"DROPEX: Disaster Rescue Operations and Probing using EXpert drones.\" In 2024 8th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS), pp. 1-5. IEEE, 2024."
+      "id": 9,
+      "title": "DROPEX: Disaster Rescue Operations and Probing using EXpert drones",
+      "authors": "K Kannan, AN Awati, SS Rao, VP Malagi",
+      "venue": "2024 8th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)",
+      "year": 2024
     },
     {
-      "citation": "[10] Sagari, S. M., V. P. Malagi, and S. Sasi. \"Euri–A Deep Ensemble Architecture For Oral Lesion Segmentation And Detection.\" Int. J. Intell. Syst. Appl. Eng 12, no. 3s (2024): 242-249."
+      "id": 10,
+      "title": "Feature Fusing with Vortex-Based Classification of Sentiment Analysis Using Multimodal Data",
+      "authors": "V Sunil Kumar, S Renukadevi, BM Yashaswini, VP Malagi, PK Pareek",
+      "venue": "International Conference on Emerging Research in Computing, Information",
+      "year": 2023
+    },
+    {
+      "id": 11,
+      "title": "Personalized E-learning System Using Linear Regression for Intelligent Tutoring Systems",
+      "authors": "A Vijaykumar, VP Malagi",
+      "venue": "International Conference on Intelligent Computing and Communication",
+      "year": 2022
+    },
+    {
+      "id": 12,
+      "title": "A Comprehensive Study on Hardware and Software Based Accident Detection Systems",
+      "authors": "R Mathew, J Paul, R Jamadagni, RG Shruthii, V Malagi",
+      "venue": "Proceedings of the International Conference on Innovative Computing",
+      "year": 2022
+    },
+    {
+      "id": 13,
+      "title": "A Comprehensive Study of Advances in Oral Cancer Detection Using Image Processing Techniques",
+      "authors": "SM Sagari, VP Malagi",
+      "venue": "Computational Vision and Bio-Inspired Computing: Proceedings of ICCVBIC 2021",
+      "year": 2022
+    },
+    {
+      "id": 14,
+      "title": "A comprehensive survey on down syndrome detection in foetus using modern technologies",
+      "authors": "IM Megha, S Vyshnavi Kowshik, S Ali, VP Malagi",
+      "venue": "Intelligent Data Engineering and Analytics: Frontiers in Intelligent",
+      "year": 2020
+    },
+    {
+      "id": 15,
+      "title": "A comprehensive survey on multi object tracking under occlusion in aerial image sequences",
+      "authors": "AR Shravya, KM Monika, V Malagi, R Krishnan",
+      "venue": "2019 1st International Conference on Advanced Technologies in Intelligent",
+      "year": 2019
+    },
+    {
+      "id": 16,
+      "title": "Artificial intelligence in smart city analysis",
+      "authors": "PJ Navarathna, VP Malagi",
+      "venue": "2018 International conference on smart systems and inventive technology",
+      "year": 2018
+    },
+    {
+      "id": 17,
+      "title": "Entropy minimization based multi object tracking",
+      "authors": "CR Jerome, SD Nayak, VP Malagi, K Rangarajan",
+      "venue": "2018 Second International Conference on Intelligent Computing and Control",
+      "year": 2018
+    },
+    {
+      "id": 18,
+      "title": "Rotation-invariant fast feature based image registration for motion compensation in aerial image sequences",
+      "authors": "VP Malagi, DR Ramesh Babu",
+      "venue": "Proceedings of international conference on cognition and recognition: ICCR",
+      "year": 2017
+    },
+    {
+      "id": 19,
+      "title": "Multi-object tracking in aerial image sequences using aerial tracking learning and detection algorithm",
+      "authors": "VP Malagi, RB DR, K Rangarajan",
+      "venue": "Defence Science Journal",
+      "year": 2016
+    },
+    {
+      "id": 20,
+      "title": "Analysis of Estimation Techniques for Feature Based Navigation of Unmanned Air Vehicles",
+      "authors": "S Bhat, VP Malagi, DRR Babu, K Rangarajan, KA Ramakrishna",
+      "venue": "Proceedings of the 3rd International Conference on Frontiers of Intelligent",
+      "year": 2015
+    },
+    {
+      "id": 21,
+      "title": "Analysis and Classification of Feature Extraction Techniques: A Study",
+      "authors": "S Bhat, VP Malagi, DR Ramesh Babu, KA Ramakrishna",
+      "venue": "International Journal of Engineering Research and Development",
+      "year": 2012
+    },
+    {
+      "id": 22,
+      "title": "Computer vision based guidance in uavs: software engineering challenges",
+      "authors": "S Bhat, V Malagi, K Rangarajan, R Babu",
+      "venue": "ACM SIGSOFT Software Engineering Notes",
+      "year": 2010
+    },
+    {
+      "id": 23,
+      "title": "Object recognition based on GVF and SUSAN in Wireless Sensor Network",
+      "authors": "VP Malagi, GG SivaSankari",
+      "venue": "2010 International Conference on Signal and Image Processing",
+      "year": 2010
     }
   ],
   "patents": [

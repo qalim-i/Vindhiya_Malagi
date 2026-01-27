@@ -102,9 +102,22 @@ const Projects = ({ projects, publications, patents, innovation }) => {
                                     className="flex items-start gap-4 p-3 rounded-lg hover:bg-white transition-colors"
                                 >
                                     <FileText className="flex-shrink-0 text-slate-400 mt-1" size={18} />
-                                    <p className="text-slate-700 text-sm leading-relaxed font-medium">
-                                        {pub.citation}
-                                    </p>
+                                    <div>
+                                        <p className="text-primary font-bold text-sm mb-1 leading-snug">
+                                            {pub.title}
+                                        </p>
+                                        <p className="text-slate-600 text-xs mb-1">
+                                            {pub.authors}
+                                        </p>
+                                        <div className="flex flex-wrap gap-2 text-xs">
+                                            <span className="text-secondary font-medium italic">
+                                                {pub.venue}
+                                            </span>
+                                            {pub.year && (
+                                                <span className="text-slate-400">| {pub.year}</span>
+                                            )}
+                                        </div>
+                                    </div>
                                 </motion.div>
                             ))}
                         </div>

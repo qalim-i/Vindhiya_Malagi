@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Linkedin, Mail, GraduationCap } from 'lucide-react';
+import { Menu, X, Linkedin, Mail, GraduationCap, Building2, Fingerprint, BookOpen } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 
@@ -90,13 +90,28 @@ const Navbar = ({ contact }) => {
 
                     {/* Social Icons Desktop */}
                     <div className="hidden md:flex items-center space-x-4">
-                        <a href={contact.google_scholar} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[#f4c430] transition-colors">
+                        {contact.dsce_irins && (
+                            <a href={contact.dsce_irins} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-blue-600 transition-colors" title="DSCE IRINS">
+                                <Building2 size={20} />
+                            </a>
+                        )}
+                        {contact.scopus && (
+                            <a href={contact.scopus} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[#FF6F00] transition-colors" title="Scopus">
+                                <BookOpen size={20} />
+                            </a>
+                        )}
+                        {contact.orcid && (
+                            <a href={contact.orcid} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[#A6CE39] transition-colors" title="ORCID">
+                                <Fingerprint size={20} />
+                            </a>
+                        )}
+                        <a href={contact.google_scholar} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[#f4c430] transition-colors" title="Google Scholar">
                             <GraduationCap size={20} />
                         </a>
-                        <a href={`https://${contact.linkedin}`} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[#0077b5] transition-colors">
+                        <a href={`https://${contact.linkedin}`} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[#0077b5] transition-colors" title="LinkedIn">
                             <Linkedin size={20} />
                         </a>
-                        <a href={`mailto:${contact.email}`} className="text-slate-500 hover:text-red-500 transition-colors">
+                        <a href={`mailto:${contact.email}`} className="text-slate-500 hover:text-red-500 transition-colors" title="Email">
                             <Mail size={20} />
                         </a>
                     </div>

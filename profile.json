@@ -2,20 +2,21 @@
   "personal_information": {
     "name": "Dr. Vindhya Malagi",
     "degree": "PhD",
-    "email": "vindhyapm@gmail.com",
+    "email": "vindhya-cs@dayanandasagar.edu",
     "phone": "9902933340",
     "linkedin": "linkedin.com/in/vindhya-malagi",
-    "google_scholar": "https://scholar.google.com/citations?user=dR7Sn8QAAAAJ&hl=en&oi=ao"
+    "google_scholar": "https://scholar.google.com/citations?user=dR7Sn8QAAAAJ&hl=en&oi=ao",
+    "dsce_irins": "https://dsce.irins.org/profile/630480#mc_information_panel",
+    "orcid": "https://orcid.org/0000-0002-5048-0220",
+    "scopus":"https://www.scopus.com/authid/detail.uri?authorId=36976147300"
   },
   "professional_summary": "Academic leader with 26 years of experience in engineering education, innovation leadership, and institutional growth. Currently serving as Professor & Head (AI & ML) and Convener, Institution's Innovation Council (IIC) at Dayananda Sagar College of Engineering (DSCE). Recognized for building high-impact innovation ecosystem, implementing national policies (NISP, MoE–IIC), mentoring institutions and startups, and contributing to national innovation ranking and institutional excellence.",
   "core_competencies": [
     "Institution's Innovation Council Leadership",
-    "National Innovation & Startup Policy (NISP) Implementation",
     "Innovation Ecosystem Design & Governance",
-    "Startup Incubation, Pre-Incubation & Technology Transfer Expertise",
     "Industry–Academia Collaboration & MoUs",
     "Innovation Rankings (NIRF, MIC Star Rating)",
-    "Organizing FDPs, Student Development & Faculty Enablement",
+    "Convener of student & faculty enablement programs",
     "Research, IP & Funded Projects",
     "Research Oriented Academic Curriculum dissemination"
   ],
@@ -34,17 +35,8 @@
       "position": "Various Academic & Research Roles",
       "institution": "DSCE",
       "period": "2007 to Present"
-    },
-    {
-      "position": "Lecturer",
-      "institution": "Vivekanand Education Society's Institute of Technology Mumbai",
-      "period": "2004-2007"
-    },
-    {
-      "position": "Lecturer",
-      "institution": "Ballari Institute of Technology and Management ",
-      "period": "1999 – 2004"
     }
+   
   ],
   "iic_contributions": [
     "Lead institutional innovation strategy aligned with MoE's IIC framework and National Innovation & Startup Policy (NISP).",
@@ -162,30 +154,30 @@
     {
       "name_of_agency": "Industry Research",
       "title_of_project": "Adaptive Learning using AI with Performance Optimization",
-      "total_amount": "15,50,000",
       "period_of_support": "2/1/2025 to 1/1/2027",
-      "status": "Ongoing"
+      "status": "Ongoing",
+      "role": "Principal Investigator"
     },
     {
       "name_of_agency": "ER&IPR, DRDO",
       "title_of_project": "Tracking Multiple Objects under Occlusion in Aerial Image Sequences",
-      "total_amount": "22,07,000",
       "period_of_support": "6/6/2017 to 5/6/2019 (2 years)",
-      "status": "Completed"
+      "status": "Completed",
+      "role": "Co-Investigator"
     },
     {
       "name_of_agency": "ER&IPR, DRDO",
       "title_of_project": "Tracking Multiple Objects in Aerial Image Sequences from UAVs",
-      "total_amount": "21,20,000",
       "period_of_support": "1/12/2011 to 30/11/2013 (2 years)",
-      "status": "Completed"
+      "status": "Completed",
+      "role": "Senior Research Fellow"
     },
     {
       "name_of_agency": "ER&IPR, DRDO",
       "title_of_project": "Vision Based Waypoint Navigation from  an Unmanned Air Vehicle",
-      "total_amount": "15,00,000",
       "period_of_support": "1/03/2010 to 28/02/2012",
-      "status": "Completed"
+      "status": "Completed",
+      "role": "Junior Research Fellow"
     }
   ],
   "publications": [

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Phone, Linkedin, GraduationCap } from 'lucide-react';
+import { Mail, Phone, Linkedin, GraduationCap, Building2, Fingerprint, BookOpen } from 'lucide-react';
 
 const Contact = ({ contact }) => {
     return (
@@ -10,16 +10,16 @@ const Contact = ({ contact }) => {
                     Open to collaborations, research opportunities, and academic consulting.
                 </p>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-                    <a href={`mailto:${contact.email}`} className="flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 justify-items-center">
+                    <a href={`mailto:${contact.email}`} className="w-full flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
                         <div className="w-14 h-14 bg-slate-100 rounded-full flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-white transition-colors text-slate-600">
                             <Mail size={28} />
                         </div>
                         <h3 className="text-lg font-bold text-primary mb-2">Email</h3>
-                        <p className="text-slate-500 text-sm">{contact.email}</p>
+                        <p className="text-slate-500 text-sm break-all">{contact.email}</p>
                     </a>
 
-                    <a href={`tel:${contact.phone}`} className="flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
+                    <a href={`tel:${contact.phone}`} className="w-full flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
                         <div className="w-14 h-14 bg-slate-100 rounded-full flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-white transition-colors text-slate-600">
                             <Phone size={28} />
                         </div>
@@ -27,7 +27,7 @@ const Contact = ({ contact }) => {
                         <p className="text-slate-500 text-sm">{contact.phone}</p>
                     </a>
 
-                    <a href={`https://${contact.linkedin}`} target="_blank" rel="noopener noreferrer" className="flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
+                    <a href={`https://${contact.linkedin}`} target="_blank" rel="noopener noreferrer" className="w-full flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
                         <div className="w-14 h-14 bg-slate-100 rounded-full flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-white transition-colors text-slate-600">
                             <Linkedin size={28} />
                         </div>
@@ -35,13 +35,43 @@ const Contact = ({ contact }) => {
                         <p className="text-slate-500 text-sm">Connect on LinkedIn</p>
                     </a>
 
-                    <a href={contact.google_scholar} target="_blank" rel="noopener noreferrer" className="flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
+                    <a href={contact.google_scholar} target="_blank" rel="noopener noreferrer" className="w-full flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
                         <div className="w-14 h-14 bg-slate-100 rounded-full flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-white transition-colors text-slate-600">
                             <GraduationCap size={28} />
                         </div>
                         <h3 className="text-lg font-bold text-primary mb-2">Google Scholar</h3>
                         <p className="text-slate-500 text-sm">View Publications</p>
                     </a>
+
+                    {contact.dsce_irins && (
+                        <a href={contact.dsce_irins} target="_blank" rel="noopener noreferrer" className="w-full flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
+                            <div className="w-14 h-14 bg-slate-100 rounded-full flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-white transition-colors text-slate-600">
+                                <Building2 size={28} />
+                            </div>
+                            <h3 className="text-lg font-bold text-primary mb-2">DSCE IRINS</h3>
+                            <p className="text-slate-500 text-sm">Academic Profile</p>
+                        </a>
+                    )}
+
+                    {contact.scopus && (
+                        <a href={contact.scopus} target="_blank" rel="noopener noreferrer" className="w-full flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
+                            <div className="w-14 h-14 bg-slate-100 rounded-full flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-white transition-colors text-slate-600">
+                                <BookOpen size={28} />
+                            </div>
+                            <h3 className="text-lg font-bold text-primary mb-2">Scopus</h3>
+                            <p className="text-slate-500 text-sm">Research Index</p>
+                        </a>
+                    )}
+
+                    {contact.orcid && (
+                        <a href={contact.orcid} target="_blank" rel="noopener noreferrer" className="w-full flex flex-col items-center bg-white p-8 rounded-2xl hover:-translate-y-2 transition-transform duration-300 border border-slate-200 shadow-sm hover:shadow-lg hover:border-secondary/30 group">
+                            <div className="w-14 h-14 bg-slate-100 rounded-full flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-white transition-colors text-slate-600">
+                                <Fingerprint size={28} />
+                            </div>
+                            <h3 className="text-lg font-bold text-primary mb-2">ORCID</h3>
+                            <p className="text-slate-500 text-sm">Researcher ID</p>
+                        </a>
+                    )}
                 </div>
             </div>
         </section>

@@ -38,8 +38,8 @@ const Projects = ({ projects, publications, patents, innovation }) => {
                                 </div>
                                 <h4 className="text-lg font-bold text-primary mb-2 line-clamp-2">{project.title_of_project}</h4>
                                 <p className="text-slate-600 text-sm mb-4">{project.name_of_agency}</p>
-                                <div className="text-secondary font-mono text-sm font-bold">
-                                    Amount: ₹{project.total_amount}
+                                <div className="text-secondary font-medium text-sm mt-2">
+                                    Role: {project.role}
                                 </div>
                             </motion.div>
                         ))}

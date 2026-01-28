@@ -39,7 +39,7 @@ const Hero = ({ data }) => {
                 </h1>
                 <p className="text-xl sm:text-2xl text-slate-600 mb-2 font-light">{data.degree}</p>
                 <p className="max-w-2xl mx-auto text-slate-500 text-lg leading-relaxed mt-6">
-                    Professor & Head (AI & ML) | Innovation Council Convener
+                    Advancing Artificial Intelligence through skepticism, structure, and purpose.
                 </p>
 
                 <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">

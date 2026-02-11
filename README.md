@@ -1,16 +1,32 @@
-# React + Vite
+# Dr. Vindhya Malagi - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website for **Dr. Vindhya Malagi**, Professor & Head of Artificial Intelligence & Machine Learning at Dayananda Sagar College of Engineering (DSCE). This site showcases her professional journey, academic contributions, research publications, and leadership in innovation.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **[React](https://react.dev/)**: Frontend library for building the user interface.
+- **[Vite](https://vitejs.dev/)**: Next-generation frontend tooling for fast development and building.
+- **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework for styling.
+- **[Framer Motion](https://www.framer.com/motion/)**: Library for production-ready animations.
+- **[Lucide React](https://lucide.dev/)**: Beautiful & consistent icon toolkit.
 
-## React Compiler
+## 📂 Project Structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The project is structured to separate data from the UI components:
 
-## Expanding the ESLint configuration
+- **`src/sections/`**: Contains the main sections of the landing page (Hero, About, Experience, Projects, Contact).
+- **`profile.json`**: Acts as the central data source for the website. You can update personal details, experience, publications, and projects here without touching the React code.
+- **`src/components/`**: Reusable UI components.
+- **`src/`**: Main application entry points (`App.jsx`, `main.jsx`).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📝 Customization
+
+To update the content of the portfolio:
+
+1. Open `profile.json` in the root directory.
+2. Modify the JSON fields such as `personal_information`, `professional_summary`, `publications`, etc.
+3. The changes will automatically reflect on the website.
+
+## 📄 License
+
+This project is for personal use.

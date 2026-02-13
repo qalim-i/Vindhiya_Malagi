@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ArrowDown } from 'lucide-react';
 import heroBg from '../assets/image.png';
+import vindhya from '../assets/Vindhya.png';
 
 const Hero = ({ data }) => {
     return (
@@ -25,7 +26,7 @@ const Hero = ({ data }) => {
                 <div className="mb-8 relative group">
                     <div className="absolute -inset-1 bg-gradient-to-r from-secondary to-accent rounded-full blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200"></div>
                     <img
-                        src="https://media.licdn.com/dms/image/v2/C4D03AQFuewkkmIBj5w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1653135257551?e=1770854400&v=beta&t=wLGko6qZvt7o5hYjZmF9QP91FySYzOW1318OSdz6Z2Y"
+                        src={vindhya} 
                         alt="Dr. Vindhya Malagi"
                         className="relative w-40 h-40 md:w-40 md:h-40 rounded-full object-cover border-4 border-white shadow-xl"
                     />
